@@ -2,7 +2,7 @@
 * **Step 1:** \
 Hold down the BOOTSEL button on the Pico W and connect it to your PC via USB; the PC will automatically open the drive folder.
 <p align="center">
-  <img src="image/flashdir.png" width="640" height="100">
+  <img src="image/flashdir.png" width="940" height="100">
 </p>
 
 * **Step 2:** \
@@ -44,7 +44,7 @@ devices  # List the devices and locate the entry named "Nevermore" or "picowota"
 ## state
 After updating the ID and restarting Klipper, you can view the status of the Nevermore.
 <p align="center">
-  <img src="image/state.png" width="940" height="320">
+  <img src="image/state.png" width="940" height="360">
 </p>
 
 # command
