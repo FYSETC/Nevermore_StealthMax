@@ -6,7 +6,7 @@ Hold down the BOOTSEL button on the Pico W and connect it to your PC via USB; th
 </p>
 
 * **Step 2:** \
-Copy the `picowota_ota-nevermore-controller_pico_w.uf2` firmware file to the RP1-RP2 directory. The download link for the firmware is https://github.com/SanaaHamel/nevermore-controller/releases/download/v1.0/picowota_ota-nevermore-controller_pico_w.uf2
+Copy the `picowota_ota-nevermore-controller_pico_w.uf2` firmware file to the RP1-RP2 directory.
 
 # install nevermore
  Use the following command to install nevermore:
@@ -32,7 +32,7 @@ If using a Bluetooth connection, you can use the following commands on the Raspb
 
 ```shell
 bluetoothctl  # Open the interactive interface.
-scan  # on Wait 5-6 seconds.
+scan on  # Wait 5-6 seconds.
 devices  # List the devices and locate the entry named "Nevermore" or "picowota".
 # connect <bt_address> Optional manual connection test
 ```

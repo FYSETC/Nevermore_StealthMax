@@ -32,7 +32,7 @@ If using a Bluetooth connection, you can use the following commands on the Raspb
 
 ```shell
 bluetoothctl  # Open the interactive interface.
-scan  # on Wait 5-6 seconds.
+scan on  # Wait 5-6 seconds.
 devices  # List the devices and locate the entry named "Nevermore" or "picowota".
 # connect <bt_address> Optional manual connection test
 ```
