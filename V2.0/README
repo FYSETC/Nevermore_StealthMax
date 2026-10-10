@@ -1,1 +1,7 @@
-Nevermore_StealthMax_V2.0
+# Wiring Diagram
+<p align="center">
+  <img src="Image/Wiring.png" width="940" height="560">
+</p>
+
+# 1.28_Touch_LCD_240
+Reference link for the display adapter board: https://github.com/FYSETC/1.28_Touch_LCD_240
