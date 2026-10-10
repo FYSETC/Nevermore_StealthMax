@@ -1,5 +1,4 @@
 # Wiring Diagram
-
 <p align="center">
   <img src="Image/Wiring.png" width="940" height="560">
 </p>
