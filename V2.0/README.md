@@ -1,6 +1,6 @@
 # Wiring Diagram
 <p align="center">
-  <img src="Image/Wiring.png" width="940" height="560">
+  <img src="Image/Wiring.png" width="840" height="560">
 </p>
 
 # 1.28_Touch_LCD_240
